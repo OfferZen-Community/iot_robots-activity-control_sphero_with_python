@@ -22,6 +22,9 @@ orb.set_rgb_led(255,0,0)
 orb.roll(100,0)
 ```
 
+To run your Python script do:
+
+`$ python3 your_script.py`
 
 ## Other Notes
 
